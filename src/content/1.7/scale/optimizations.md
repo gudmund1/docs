@@ -81,7 +81,7 @@ mysqlcheck -a -A -uroot -pyour_password
 ## 4) Use a CDN
 
 Always try to use a CDN to reduce the amount of hits on your server. <a href="https://www.cloudflare.com">Cloudflare</a>
-is a good and free service. You can use as well to minify your page or to easily enable SSL on your site.
+is a good service BUT COSTS $200 PER MONTH FOR ECOMMERCE WEBSITES. You can use as well to minify your page or to easily enable SSL on your site.
 
 ## 5) Optimize your prestashop
 
